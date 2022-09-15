@@ -9,6 +9,6 @@ def index():
     return app.send_static_file("index.html")
 
 
-@app.route("/time/")
+@app.route("/api/time/")
 def get_currente_time():
     return {"time": time.time()}
