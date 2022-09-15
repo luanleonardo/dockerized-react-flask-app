@@ -14,10 +14,12 @@ docker run --rm luanleonardo/react-flask-app
 
 ## Execução Local
 
-Se você quiser executar localmente, faça clone do projeto e dentro da pasta do projeto execute:
+Se você quiser executar localmente, execute:
 
 ```
-docker-compose up -d
+> git clone git@github.com:luanleonardo/dockerized-react-flask-app.git
+> cd cd dockerized-react-flask-app/
+> docker-compose up -d
 ```
 
 ## Resultado 
