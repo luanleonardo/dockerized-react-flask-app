@@ -1,0 +1,13 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: flask-api
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+    container_name: react-app
+    ports:
+      - "3000:80"
