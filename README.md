@@ -14,7 +14,7 @@ docker run --rm -p 3000:3000 luanleonardo/react-flask-app
 
 ## Execução Local
 
-Se você quiser executar localmente, execute:
+Se você quiser executar localmente, faça:
 
 ```
 > git clone git@github.com:luanleonardo/dockerized-react-flask-app.git
