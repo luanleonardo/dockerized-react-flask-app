@@ -2,7 +2,7 @@
 
 ## Instalações
 
-Para que tudo funcione você precisa ter o [Docker](https://www.docker.com/) instalado
+Para que tudo funcione você precisa ter o [Docker](https://www.docker.com/) instalado.
 
 ## Execução
 
