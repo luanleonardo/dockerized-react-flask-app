@@ -14,10 +14,10 @@ docker run --rm luanleonardo/react-flask-app
 
 ## Execução Local
 
-Se você quiser executar localmente, faça download do projeto e dentro da pasta do projeto execute:
+Se você quiser executar localmente, faça clone do projeto e dentro da pasta do projeto execute:
 
 ```
-docker-compose up
+docker-compose up -d
 ```
 
 ## Resultado 
