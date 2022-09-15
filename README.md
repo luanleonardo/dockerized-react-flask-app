@@ -9,7 +9,7 @@ Para que tudo funcione você precisa ter o [Docker](https://www.docker.com/) ins
 Execute o comando:
 
 ```
-docker run --rm luanleonardo/react-flask-app
+docker run --rm -p 3000:3000 luanleonardo/react-flask-app
 ```
 
 ## Execução Local
