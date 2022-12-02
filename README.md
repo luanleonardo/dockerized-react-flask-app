@@ -18,7 +18,7 @@ Se você quiser executar localmente, faça:
 
 ```
 > git clone git@github.com:luanleonardo/dockerized-react-flask-app.git
-> cd cd dockerized-react-flask-app/
+> cd dockerized-react-flask-app/
 > docker-compose up -d
 ```
 
